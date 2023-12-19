@@ -42,4 +42,4 @@ Visualization based on Gender Distribution, Parents Educational level, students 
 
 Note:
 
-    The analysis is done in Jupyter Notebook using python libraries for Data Science. The datset is from Kaggle.
+    The analysis is done in Jupyter Notebook using python libraries for Data Science. The dataset is from Kaggle.
