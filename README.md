@@ -1,6 +1,6 @@
 # **Project Introduction**
 
-This notebook is about the analysis of marks scored by studnets in various subjects.
+This project is about the analysis of marks scored by students in various subjects.
 
 The dataset includes scores from three test scores of students at a (fictional) public school and a variety of personal and socio-economic factors that may have interaction effects upon them.
 
@@ -38,8 +38,8 @@ The dataset includes scores from three test scores of students at a (fictional) 
 
 The key analysis includes:
 
-Visualization based on Gender Distribution, Parents Educational level, students playing sports, transport means, basic statistical analysis, analysis of scores in variuos subjects etc.
+Using Python libraries to create data visualizations based on Gender Distribution, Parent's Educational level, students playing sports, transport means, basic statistical analysis, analysis of scores in various subjects, etc.
 
 Note:
 
-    The analysis is done in Jupyter Notebook using python libraries for Data Science. The dataset is from Kaggle.
+    The analysis is done in Jupyter Notebook using Python libraries for Data Science. The datset is from Kaggle.
